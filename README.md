@@ -17,6 +17,7 @@ STEP 1: Libraries required are
 -re
 -matplotlib.pyplot
 -time
+
 STEP 2: open folder as pycharm project
 First step change base directory run main.py
 change base directory for cleandata.py and run it (folder must only contain all files created by main.py)
